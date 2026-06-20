@@ -39,6 +39,7 @@ alias ob='code ~/.byobu'
 alias bs='byobu-source'
 
 alias wstorm='/home/ubuntu/Documents/WebStorm-243.21565.180/bin/webstorm.sh'
+alias wstorm1='/home/ubuntu/Documents/WebStorm-243.21565.180/bin/webstorm.sh'
 alias w='/opt/WebStorm-243.26053.12/bin/webstorm.sh'
 alias i='/opt/idea-IU-243.25659.59/bin/idea.sh'
 alias d='/opt/datagrip/DataGrip-2025.1.3/bin/datagrip.sh'

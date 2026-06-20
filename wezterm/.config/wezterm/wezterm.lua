@@ -34,7 +34,7 @@ config.window_background_image_hsb = {
 }
 
 -- default background
-local bg_image = home .. "/.config/wezterm/bg/bg.jpg"
+local bg_image = home .. "/.config/wezterm/bg/sukuna-epic-jjk-anime-wallpaper-preview.jpg"
 
 config.window_background_image = bg_image
 -- end image setting
