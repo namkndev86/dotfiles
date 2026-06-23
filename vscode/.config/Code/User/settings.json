@@ -1,0 +1,61 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.iconTheme": "material-icon-theme",
+
+  "editor.fontFamily": "MesloLGS Nerd Font, SF Mono, Consolas, monospace",
+  "editor.fontSize": 12,
+  "editor.fontLigatures": true,
+
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+
+  "editor.suggestSelection": "first",
+  "editor.snippetSuggestions": "top",
+
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.guides.highlightActiveBracketPair": true,
+  "editor.guides.indentation": true,
+  "editor.guides.highlightActiveIndentation": true,
+
+  "terminal.integrated.fontFamily": "MesloLGS Nerd Font Mono, SF Mono, Consolas, monospace",
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.fontLigatures": true,
+
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+
+  "git.autofetch": true,
+  "scm.showIncomingChanges": "always",
+  "scm.showOutgoingChanges": "always",
+
+  "eslint.format.enable": true,
+
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "razor": "html",
+    "plaintext": "pug"
+  },
+
+  "github.copilot.enable": {
+    "*": false
+  },
+
+  "window.titleBarStyle": "custom",
+  "window.customTitleBarVisibility": "auto",
+  "window.zoomLevel": 0,
+
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
