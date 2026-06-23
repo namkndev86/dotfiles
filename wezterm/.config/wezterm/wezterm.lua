@@ -34,7 +34,7 @@ config.window_background_image_hsb = {
 }
 
 -- default background
-local bg_image = home .. "/.config/wezterm/bg/sukuna-epic-jjk-anime-wallpaper-preview.jpg"
+local bg_image = home .. "/.config/wezterm/bg/sukuna-epic-jjk-anime-wallpaper-preview1.jpg"
 
 config.window_background_image = bg_image
 -- end image setting
@@ -54,6 +54,7 @@ config.font = wezterm.font("Inconsolata Nerd Font Mono", { weight = "Medium", st
 config.font_size = 16
 
 config.window_decorations = "RESIZE"
+config.enable_tab_bar = false
 config.use_fancy_tab_bar = false
 
 config.window_frame = {
