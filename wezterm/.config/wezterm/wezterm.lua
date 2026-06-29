@@ -51,7 +51,7 @@ config.window_padding = {
 
 config.color_scheme = "Tokyo Night"
 config.font = wezterm.font("Inconsolata Nerd Font Mono", { weight = "Medium", stretch = "Expanded" })
-config.font_size = 16
+config.font_size = 14
 
 config.window_decorations = "RESIZE"
 config.enable_tab_bar = false

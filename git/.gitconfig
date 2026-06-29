@@ -1,0 +1,7 @@
+[user]
+	name = conankudo
+	email = conankudo405@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait
